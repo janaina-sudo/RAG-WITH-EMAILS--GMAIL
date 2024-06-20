@@ -20,7 +20,7 @@ Para sincronizar a aplicação com dados de email do usuário é necessário que
 
 Via comando git clone você pode baixar esse repositório para ter acesso aos códigos, digite a seguinte linha de comando abaixo: 
 
-> git clone https://github.com/janaina-sudo/RAGWITHEMAILSGMAIL.git
+> git clone https://github.com/janaina-sudo/RAG-WITH-EMAILS--GMAIL.git
 
 Em seguida, crie uma celula e execute os seguintes comandos, ou utilize um ambiente virtual, para instalar as dependencias necessárias:
 
